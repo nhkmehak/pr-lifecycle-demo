@@ -10,3 +10,6 @@ This is my first commit on the feature branch.
 
 ## Change 2
 This is my second commit on the feature branch.
+
+## Change 3
+This is my third commit on the feature branch.
